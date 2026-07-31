@@ -28,7 +28,7 @@ class Config:
         self.SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/AetherMusicSupport")
 
         self.API_URL = "https://teaminflex.xyz"
-        self.API_KEY = "ShrutiBotszRVh34uLWKWQvMRvZaaN"
+        self.API_KEY = "sparrow5F1tEFKZ8Bcsw7rYkPDQ2N2I"
 
         self.AUTO_LEAVE: bool = getenv("AUTO_LEAVE", "False").lower() == "False"
         self.AUTO_END: bool = getenv("AUTO_END", "False").lower() == "False"
